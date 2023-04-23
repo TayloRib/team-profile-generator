@@ -27,6 +27,7 @@ User can utilize the node terminal to answer a series of questions that will gen
 NMP Inquirer
 
 Joe Rehfuss (Test codes and HTML Generation code)
+https://github.com/rufasa85/
 
 ## License
 
@@ -34,7 +35,7 @@ This project is licensed under the terms of the MIT license.
 
 ## Tests
 
-`https://drive.google.com/file/d/1ys21QT2cclpUxloC_J484II49eIen_8e/view`
+https://drive.google.com/file/d/1ys21QT2cclpUxloC_J484II49eIen_8e/view
 
 ## Questions 
 
