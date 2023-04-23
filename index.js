@@ -5,7 +5,6 @@ const team = require("./Develop/util/generateHtml")
 const Intern = require("./Develop/lib/Intern");
 const Manager = require("./Develop/lib/Manager");
 const Engineer = require("./Develop/lib/Engineer");
-const Employee = require("./Develop/lib/Employee");
 
 const manager =[];
 const engineer = [];
