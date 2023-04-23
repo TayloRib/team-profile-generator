@@ -26,6 +26,8 @@ User can utilize the node terminal to answer a series of questions that will gen
 
 NMP Inquirer
 
+Joe Rehfuss (Test codes and HTML Generation code)
+
 ## License
 
 This project is licensed under the terms of the MIT license.
